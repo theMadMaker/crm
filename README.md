@@ -1,1 +1,3 @@
-# crm
+# tinycrm
+
+A tiny crm

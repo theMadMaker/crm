@@ -1,0 +1,24 @@
+{
+  "name": "tinycrm",
+  "version": "0.0.2",
+  "description": "A Tiny CRM",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "google-spreadsheets": "^0.5.1",
+    "hbs": "^4.0.1"
+  },
+  "engines": {
+    "node": "6.12.3"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "googlesheets",
+    "dashboard"
+  ],
+  "license": "MIT"
+}

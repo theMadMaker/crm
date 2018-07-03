@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 250px;
+  display: block;
+}
+
+ul {
+  padding: 0;
+}
+
+#menu h3 {
+  margin: 0;
+}
+
+#menu, #menu li {
+  display: inline-block
+}
+
+#menu li {
+  margin: 0 .5em;
+}
+
+th {
+  padding: 0 .5em;
+}
+
+th, td {
+  text-align: left;
+}
+
+th.id, td.id {
+  text-align: right;
+}
+
+#form {
+  margin: 0 auto;
+  text-align: center;
+}
